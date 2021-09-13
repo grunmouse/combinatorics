@@ -1,4 +1,4 @@
-const = {
+const {
 	lowerZeroCount,
 	lowerFlagCount,
 	flagCount,
